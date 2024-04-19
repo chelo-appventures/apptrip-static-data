@@ -1,0 +1,1 @@
+# apptrip-static-data
